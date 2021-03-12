@@ -1,0 +1,2158 @@
+<film copyable="0" duration="39.8" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[GoAnimate Troublemakers Season 2 Trailer]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+      <color value="ff0000"/>
+      <color value="bf0000"/>
+      <color value="0"/>
+      <color value="ffff"/>
+      <color value="ffffff"/>
+      <color value="ff00"/>
+      <color value="e9ff00"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="69" lock="N" index="0" color="16777215" guid="0EB5C40E-3EE4-89BD-032E-812B61F98E22">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bubbleAsset id="BUBBLE130" index="1">
+      <x>322.0304124</x>
+      <y>201.003551</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-90" y="-45" w="180" h="90" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Telex Regular" size="35" align="center" bold="false" italic="false" embed="true"><![CDATA[Now it's time for:]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="69" lock="N" index="1" color="16777215" guid="9652CB2B-280D-6E76-AB83-316AEDCFFF5F">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bubbleAsset id="BUBBLE130" index="1">
+      <x>322.0304124</x>
+      <y>200.978551</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-90" y="-45" w="180" h="90" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Telex Regular" size="23" align="center" bold="false" italic="false" embed="true"><![CDATA[GoAnimate Troublemakers Season 2 Trailer!]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="60" lock="N" index="2" color="16777215" guid="9669FF8B-8EE5-49EF-8BEE-B61DC8C38F07" combgId="common.cbg_ncc_gbrm">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_gbrm_BG7" index="0">
+      <file>common.wall17.swf</file>
+      <color r="ccColorA">16711680</color>
+      <color r="ccColorB">12517376</color>
+      <color r="ccColorC">12517376</color>
+      <color r="ccColorD">12517376</color>
+    </bg>
+    <char id="AVATOR147" index="4" raceCode="1">
+      <action face="1" motionface="1">ugc.C-4086-1601032159345.lie.xml</action>
+      <head id="PROP11" raceCode="1">
+        <file>ugc.C-4086-1601032159345.head.head_sad.xml</file>
+      </head>
+      <x>141.2477823</x>
+      <y>153.8141427</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>-28.6053485</rotation>
+    </char>
+    <char id="AVATOR150" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.C-4450-1601032159345.xarms.xml</action>
+      <head id="PROP13" raceCode="1">
+        <file>ugc.C-4450-1601032159345.head.head_angry.xml</file>
+      </head>
+      <x>379.3802978</x>
+      <y>230.403551</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP121" index="5" attached="Y">
+      <file>common.msp_gbblanket01.msp_gbblanket01_ncc_gbblanket01empty_front.swf</file>
+      <x>174.6</x>
+      <y>259.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">12517376</color>
+      <color r="ccColorB">0</color>
+    </prop>
+    <prop id="PROP122" index="3" attached="Y">
+      <file>common.msp_pillow02.msp_pillow02_ncc_pillow02_front.swf</file>
+      <x>272.7</x>
+      <y>184.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">12517376</color>
+    </prop>
+    <prop id="PROP125" index="2" attached="Y">
+      <file>common.msp_bed.msp_bed_ncc_gbbed_front.swf</file>
+      <x>207.7</x>
+      <y>218.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16711680</color>
+    </prop>
+    <prop id="PROP126" index="1" attached="Y">
+      <file>common.msp_gbwindow.msp_gbwindow_ncc_gbwindow_side01.swf</file>
+      <x>17.6</x>
+      <y>138.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16711680</color>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE3" adelay="78" lock="N" index="3" color="16777215" guid="11676A44-C754-D84D-4AAB-9389AA247005" combgId="common.cbg_ncc_house">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_house_BG7" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorB">10066329</color>
+      <color r="colorA">10079283</color>
+    </bg>
+    <bubbleAsset id="BUBBLE181" index="16">
+      <x>153.5555269</x>
+      <y>98.053551</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-90" y="-45" w="180" h="90" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Telex Regular" size="23" align="center" bold="false" italic="false" embed="true"><![CDATA[Jenny and Herny Stickmin's House]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP52" index="15" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>552.2</x>
+      <y>127.5</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP51" index="14" attached="Y">
+      <file>common.msp_ncc_hsign.msp_ncc_hsign_ncc_hsign01.swf</file>
+      <x>292.9</x>
+      <y>218.4</y>
+      <xscale>1.17</xscale>
+      <yscale>1.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="13" attached="Y">
+      <file>common.msp_ncc_hsign.msp_ncc_hsign_ncc_hsign03.swf</file>
+      <x>117.7</x>
+      <y>238.8</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="12" attached="Y">
+      <file>common.msp_pavement01.msp_pavement01_ncc_footpath01.swf</file>
+      <x>56.4</x>
+      <y>283.5</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="11" attached="Y">
+      <file>common.msp_pavement01.msp_pavement01_ncc_footpath01.swf</file>
+      <x>153.5</x>
+      <y>283.5</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="10" attached="Y">
+      <file>common.msp_pavement01.msp_pavement01_ncc_footpath02.swf</file>
+      <x>249.5</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="9" attached="Y">
+      <file>common.msp_pavement01.msp_pavement01_ncc_footpath01.swf</file>
+      <x>186.7</x>
+      <y>249.5</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP45" index="8" attached="Y">
+      <file>common.msp_pavement01.msp_pavement01_ncc_footpath01.swf</file>
+      <x>346.8</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP44" index="7" attached="Y">
+      <file>common.msp_pavement01.msp_pavement01_ncc_footpath01.swf</file>
+      <x>444.5</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP43" index="6" attached="Y">
+      <file>common.msp_pavement01.msp_pavement01_ncc_footpath01.swf</file>
+      <x>542.8</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP42" index="5" attached="Y">
+      <file>common.msp_pavement01.msp_pavement01_ncc_footpath01.swf</file>
+      <x>638.5</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP41" index="4" attached="Y">
+      <file>common.ncc_hhouse01.swf</file>
+      <x>150.7</x>
+      <y>119.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP40" index="3" attached="Y">
+      <file>common.bushes.swf</file>
+      <x>432</x>
+      <y>207.5</y>
+      <xscale>1.2</xscale>
+      <yscale>1.2</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP39" index="2" attached="Y">
+      <file>common.ncc_hhouse02.swf</file>
+      <x>571.3</x>
+      <y>123.5</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP38" index="1" attached="Y">
+      <file>common.bushes.swf</file>
+      <x>384.2</x>
+      <y>177.5</y>
+      <xscale>2.06</xscale>
+      <yscale>2.06</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT5" themecode="common" index="17">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE4" adelay="60" lock="N" index="4" color="16777215" guid="2FB0C415-17E3-41D3-E944-F61BCE0E8741" combgId="custom.cbg_restaurant">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_restaurant_BG220" index="0">
+      <file>custom.restaurant_bg.swf</file>
+    </bg>
+    <char id="AVATOR226" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.C-12114-1601032159345.sit.xml</action>
+      <head id="PROP77" raceCode="1">
+        <file>ugc.C-12114-1601032159345.head.head_shocked.xml</file>
+      </head>
+      <x>229.875</x>
+      <y>218.45</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR227" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.C-12461-1601032159345.sit.xml</action>
+      <head id="PROP75" raceCode="1">
+        <file>ugc.C-12461-1601032159345.head.head_angry.xml</file>
+      </head>
+      <x>439.6916667</x>
+      <y>224.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP71" index="3" attached="Y">
+      <file>custom.restaurant_table.swf</file>
+      <x>338</x>
+      <y>307</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP65" index="4">
+      <file>custom.msp_dishes.msp_dishes_restaurant_int_food.swf</file>
+      <x>293.675</x>
+      <y>233.553551</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP67" index="5">
+      <file>custom.msp_dishes.msp_dishes_restaurant_int_food.swf</file>
+      <x>371.8302978,48.8302978</x>
+      <y>238.6,19.35</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <face>-1,-1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT5" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="1" target="PROP67" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE5" adelay="60" lock="N" index="5" color="16777215" guid="7DF9D71F-36EA-32D8-C1DD-FA14D6006774" combgId="custom.cbg_school_locker">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG2" index="0">
+      <file>custom.school_locker_bg.swf</file>
+      <dcsn>9536</dcsn>
+      <color r="ccColorA" oc="0x0">8623449</color>
+    </bg>
+    <char id="AVATOR256" index="3" raceCode="1">
+      <action face="-1" motionface="1">ugc.C-14523-1601032159345.laugh.xml</action>
+      <x>239.5302978</x>
+      <y>220.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR257" index="4" raceCode="1">
+      <action face="1" motionface="1">ugc.C-14773-1601032159345.sad.xml</action>
+      <head id="PROP86" raceCode="1">
+        <file>ugc.C-14773-1601032159345.head.head_cry.xml</file>
+      </head>
+      <x>422.8304124</x>
+      <y>222.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR260" index="5" raceCode="1">
+      <action face="1" motionface="1">ugc.C-15121-1601032159345.fearful.xml</action>
+      <head id="PROP88" raceCode="1">
+        <file>ugc.C-15121-1601032159345.head.head_shocked.xml</file>
+      </head>
+      <x>494.275</x>
+      <y>226.25</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP1" index="2" attached="Y">
+      <file>custom.school_locker_open.swf</file>
+      <x>493</x>
+      <y>196</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP0" index="1" attached="Y">
+      <file>custom.school_locker.swf</file>
+      <x>460</x>
+      <y>197</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT8" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE6" adelay="60" lock="N" index="6" color="16777215" guid="67B71C17-9979-1564-D64A-7EEEF35E46D2" combgId="common.cbg_living_rm02">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_living_rm02_BG869" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="wall">65535</color>
+      <color r="sidewall">65535</color>
+      <color r="floor">16777215</color>
+    </bg>
+    <char id="AVATOR304" index="24" raceCode="1">
+      <action face="1" motionface="1">ugc.C-4450-1601032159345.xarms.xml</action>
+      <head id="PROP112" raceCode="1">
+        <file>ugc.C-4450-1601032159345.head.head_angry.xml</file>
+      </head>
+      <x>378.2</x>
+      <y>240.05</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR307" index="25" raceCode="1">
+      <action face="1,1" motionface="1">ugc.C-17078-1601032159345.run.xml</action>
+      <head id="PROP114" raceCode="1">
+        <file>ugc.C-17078-1601032159345.head.head_cry.xml</file>
+      </head>
+      <x>245.45,-5.15</x>
+      <y>249.45,278.5</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_living_rm02_PROP311" index="23" attached="Y">
+      <file>common.msp_old_tv.msp_old_tv_old_tv_side_back.swf</file>
+      <x>519</x>
+      <y>248</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_rm02_PROP310" index="22" attached="Y">
+      <file>common.msp_shelves03.msp_shelves03_bookshelves_side.swf</file>
+      <x>528</x>
+      <y>314</y>
+      <xscale>1.29</xscale>
+      <yscale>1.29</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">3355443</color>
+    </prop>
+    <prop id="cbg_living_rm02_PROP300" index="21" attached="Y">
+      <file>common.table_square.swf</file>
+      <x>330</x>
+      <y>290</y>
+      <xscale>0.74</xscale>
+      <yscale>0.74</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">3355443</color>
+    </prop>
+    <prop id="cbg_living_rm02_PROP294" index="20" attached="Y">
+      <file>common.msp_sofa02.msp_sofa02_sofa02_side.swf</file>
+      <x>132</x>
+      <y>278.5</y>
+      <xscale>0.98</xscale>
+      <yscale>0.98</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_living_rm02_PROP293" index="19" attached="Y">
+      <file>common.window_display.swf</file>
+      <x>554.3</x>
+      <y>141.5</y>
+      <xscale>1.84</xscale>
+      <yscale>1.84</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_rm02_PROP285" index="18" attached="Y">
+      <file>common.window_display.swf</file>
+      <x>380.3</x>
+      <y>141.5</y>
+      <xscale>1.84</xscale>
+      <yscale>1.84</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_rm02_PROP291" index="17" attached="Y">
+      <file>common.circle01.swf</file>
+      <x>413.4</x>
+      <y>215.9</y>
+      <xscale>0.38</xscale>
+      <yscale>0.16</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13421772</color>
+    </prop>
+    <prop id="cbg_living_rm02_PROP290" index="16" attached="Y">
+      <file>common.circle01.swf</file>
+      <x>409.5</x>
+      <y>206.5</y>
+      <xscale>0.13</xscale>
+      <yscale>0.06</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13421772</color>
+    </prop>
+    <prop id="cbg_living_rm02_PROP289" index="15" attached="Y">
+      <file>common.circle01.swf</file>
+      <x>396.1</x>
+      <y>205.4</y>
+      <xscale>0.23</xscale>
+      <yscale>0.1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13421772</color>
+    </prop>
+    <prop id="cbg_living_rm02_PROP288" index="14" attached="Y">
+      <file>common.circle01.swf</file>
+      <x>405.7</x>
+      <y>197.7</y>
+      <xscale>0.23</xscale>
+      <yscale>0.07</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13421772</color>
+    </prop>
+    <prop id="cbg_living_rm02_PROP287" index="13" attached="Y">
+      <file>common.circle01.swf</file>
+      <x>396.8</x>
+      <y>194.6</y>
+      <xscale>0.14</xscale>
+      <yscale>0.04</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13421772</color>
+    </prop>
+    <prop id="cbg_living_rm02_PROP286" index="12" attached="Y">
+      <file>common.circle01.swf</file>
+      <x>334.3</x>
+      <y>200.5</y>
+      <xscale>1.51</xscale>
+      <yscale>0.5</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">6724044</color>
+    </prop>
+    <prop id="cbg_living_rm02_PROP284" index="11" attached="Y">
+      <file>common.bushes.swf</file>
+      <x>567.3</x>
+      <y>181.5</y>
+      <xscale>0.63</xscale>
+      <yscale>0.63</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_rm02_PROP283" index="10" attached="Y">
+      <file>common.bushes.swf</file>
+      <x>468.3</x>
+      <y>177.5</y>
+      <xscale>0.42</xscale>
+      <yscale>0.42</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_rm02_PROP280" index="9" attached="Y">
+      <file>common.fences.swf</file>
+      <x>536</x>
+      <y>157</y>
+      <xscale>0.48</xscale>
+      <yscale>0.48</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_rm02_PROP279" index="8" attached="Y">
+      <file>common.fences.swf</file>
+      <x>440</x>
+      <y>157</y>
+      <xscale>0.48</xscale>
+      <yscale>0.48</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_rm02_PROP278" index="7" attached="Y">
+      <file>common.fences.swf</file>
+      <x>344</x>
+      <y>157</y>
+      <xscale>0.48</xscale>
+      <yscale>0.48</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_rm02_PROP282" index="6" attached="Y">
+      <file>common.tree.swf</file>
+      <x>341.1</x>
+      <y>146.9</y>
+      <xscale>0.39</xscale>
+      <yscale>0.39</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_rm02_PROP281" index="5" attached="Y">
+      <file>common.tree.swf</file>
+      <x>317.1</x>
+      <y>137.9</y>
+      <xscale>0.39</xscale>
+      <yscale>0.39</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_rm02_PROP277" index="4" attached="Y">
+      <file>common.shop.swf</file>
+      <x>420</x>
+      <y>149</y>
+      <xscale>0.3</xscale>
+      <yscale>0.3</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorB">10053171</color>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="cbg_living_rm02_PROP276" index="3" attached="Y">
+      <file>common.shop.swf</file>
+      <x>541</x>
+      <y>139</y>
+      <xscale>0.41</xscale>
+      <yscale>0.41</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorB">10053222</color>
+      <color r="ccColorA">6697830</color>
+    </prop>
+    <prop id="cbg_living_rm02_PROP275" index="2" attached="Y">
+      <file>common.square01.swf</file>
+      <x>453</x>
+      <y>201</y>
+      <xscale>5.31</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">6723840</color>
+    </prop>
+    <prop id="cbg_living_rm02_PROP274" index="1" attached="Y">
+      <file>common.square01.swf</file>
+      <x>451</x>
+      <y>141</y>
+      <xscale>5.31</xscale>
+      <yscale>3</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT10" themecode="common" index="26">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="2" target="AVATOR307" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE7" adelay="60" lock="N" index="7" color="16777215" guid="9253BBEC-6B0B-3754-96EB-D35E52DB2FDE" combgId="common.cbg_jail">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_jail_BG7" index="0">
+      <file>common.wall_09.swf</file>
+    </bg>
+    <char id="AVATOR354" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.C-24863-1601032159345.sit.xml</action>
+      <head id="PROP155" raceCode="1">
+        <file>ugc.C-24863-1601032159345.head.head_sad.xml</file>
+      </head>
+      <x>362.35</x>
+      <y>165.225</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_jail_PROP9" index="5" attached="Y">
+      <file>common.ncc_bed02_side.swf</file>
+      <x>424</x>
+      <y>108.4</y>
+      <xscale>0.97</xscale>
+      <yscale>0.97</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_jail_PROP8" index="4" attached="Y">
+      <file>common.ncc_bed02_side.swf</file>
+      <x>424</x>
+      <y>226.1</y>
+      <xscale>0.97</xscale>
+      <yscale>0.97</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_jail_PROP10" index="3" attached="Y">
+      <file>common.msp_iron_fence02.msp_iron_fence02_ncc_iron_fence02_side.swf</file>
+      <x>72.25,72.15</x>
+      <y>-143.65,189.65</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="cbg_jail_PROP11" index="2" attached="Y">
+      <file>common.ncc_stroke01.swf</file>
+      <x>377.3</x>
+      <y>159</y>
+      <xscale>0.59</xscale>
+      <yscale>0.59</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_jail_PROP12" index="1" attached="Y">
+      <file>common.ncc_stroke01.swf</file>
+      <x>474.5</x>
+      <y>170.7</y>
+      <xscale>0.82</xscale>
+      <yscale>0.82</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT12" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="3" target="cbg_jail_PROP10" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE8" adelay="60" lock="N" index="8" color="16777215" guid="3E3D1166-56DD-BC20-C6F7-9B3B986ECE9F" combgId="custom.cbg_barn_ext">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_barn_ext_BG2" index="0">
+      <file>custom.barn_ext_bg.swf</file>
+      <dcsn>9701</dcsn>
+      <color r="ccColorA" oc="0x0">14295073</color>
+    </bg>
+    <prop id="cbg_barn_ext_PROP1" index="2" attached="Y">
+      <file>custom.barn_ext_fence.swf</file>
+      <x>303.4</x>
+      <y>355.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_barn_ext_PROP0" index="1" attached="Y">
+      <file>custom.barn_ext_hay.swf</file>
+      <x>158.4</x>
+      <y>295.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP164" index="3">
+      <file>common.msp_car01.msp_car01_ncc_car01_on.swf</file>
+      <x>312.125,794.225</x>
+      <y>285.3,285.175</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <face>-1,-1</face>
+      <rotation>0,0</rotation>
+      <color r="ccColorA">65535</color>
+      <color r="ccColorB">65535</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT14" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="4" target="PROP164" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="60" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE9" adelay="60" lock="N" index="9" color="16777215" guid="1CD6BC31-4597-C03C-F986-63B096C5D93A" combgId="common.cbg_ncc_graveyard">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_graveyard_BG7" index="0">
+      <file>common.ncc_gradient.swf</file>
+      <color r="colorA">65535</color>
+      <color r="colorB">65535</color>
+    </bg>
+    <char id="AVATOR432" index="44" raceCode="1">
+      <action face="1" motionface="1">ugc.C-29268-1601032159345.stand.xml</action>
+      <x>265.7</x>
+      <y>232.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR433" index="45" raceCode="1">
+      <action face="-1" motionface="1">ugc.C-29513-1601032159345.stand.xml</action>
+      <head id="PROP216" raceCode="1">
+        <file>ugc.C-29513-1601032159345.head.head_surprised.xml</file>
+      </head>
+      <x>154.35</x>
+      <y>232.8</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_ncc_graveyard_PROP30" index="19" attached="Y">
+      <file>common.ncc_grass01.swf</file>
+      <x>572.1</x>
+      <y>272</y>
+      <xscale>0.7</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>30</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP29" index="18" attached="Y">
+      <file>common.ncc_grass01.swf</file>
+      <x>227.1</x>
+      <y>298</y>
+      <xscale>0.6</xscale>
+      <yscale>0.6</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP28" index="17" attached="Y">
+      <file>common.msp_nccha_tombstone01.msp_nccha_tombstone01_nccha_grave_tombstone01.swf</file>
+      <x>102.1</x>
+      <y>295</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>-9.6</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP27" index="16" attached="Y">
+      <file>common.nccha_grave_tombstone03.swf</file>
+      <x>243.1</x>
+      <y>241</y>
+      <xscale>0.89</xscale>
+      <yscale>0.89</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP25" index="15" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>439</x>
+      <y>238.9</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>16.3</rotation>
+      <color r="ccColorA">13421772</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP24" index="14" attached="Y">
+      <file>common.nccha_grave_house.swf</file>
+      <x>569.6</x>
+      <y>211</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP22" index="13" attached="Y">
+      <file>common.nccha_grave_tombstone04.swf</file>
+      <x>382.2</x>
+      <y>224</y>
+      <xscale>1.2</xscale>
+      <yscale>1.2</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP21" index="12" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>155</x>
+      <y>173.9</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>-14.4</rotation>
+      <color r="ccColorA">13421772</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP20" index="11" attached="Y">
+      <file>common.nccha_grave_tombstone04.swf</file>
+      <x>297.2</x>
+      <y>202</y>
+      <xscale>0.82</xscale>
+      <yscale>0.82</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP19" index="10" attached="Y">
+      <file>common.nccha_grave_soil01.swf</file>
+      <x>90.1</x>
+      <y>190</y>
+      <xscale>0.5</xscale>
+      <yscale>0.5</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP18" index="9" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>68</x>
+      <y>170.9</y>
+      <xscale>0.45</xscale>
+      <yscale>0.45</yscale>
+      <face>1</face>
+      <rotation>-17.8</rotation>
+      <color r="ccColorA">3355443</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP17" index="8" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>208</x>
+      <y>178.9</y>
+      <xscale>0.45</xscale>
+      <yscale>0.45</yscale>
+      <face>1</face>
+      <rotation>6.5</rotation>
+      <color r="ccColorA">3355443</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP16" index="7" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>389</x>
+      <y>186.9</y>
+      <xscale>0.45</xscale>
+      <yscale>0.45</yscale>
+      <face>1</face>
+      <rotation>-17.8</rotation>
+      <color r="ccColorA">3355443</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP15" index="6" attached="Y">
+      <file>common.ncc_cloud.swf</file>
+      <x>345.1</x>
+      <y>55.6</y>
+      <xscale>2.06</xscale>
+      <yscale>0.56</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP11" index="5" attached="Y">
+      <file>common.nccha_grave_prop02.swf</file>
+      <x>322</x>
+      <y>281</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">65280</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP10" index="4" attached="Y">
+      <file>common.ncc_tree05.swf</file>
+      <x>67</x>
+      <y>131</y>
+      <xscale>0.3574275</xscale>
+      <yscale>0.3574275</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">15335168</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP9" index="3" attached="Y">
+      <file>common.nccha_grave_castle.swf</file>
+      <x>213.1</x>
+      <y>133.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP8" index="2" attached="Y">
+      <file>common.nccha_grave_backdrop.swf</file>
+      <x>567</x>
+      <y>148</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">65280</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP14" index="1" attached="Y">
+      <file>common.ncc_cloud.swf</file>
+      <x>335.1</x>
+      <y>45.6</y>
+      <xscale>2.06</xscale>
+      <yscale>0.56</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP190" index="20" attached="Y">
+      <file>common.ncc_tree05.swf</file>
+      <x>90.0910643</x>
+      <y>133.2089357</y>
+      <xscale>0.3574275</xscale>
+      <yscale>0.3574275</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">15335168</color>
+    </prop>
+    <prop id="PROP191" index="21" attached="Y">
+      <file>common.ncc_tree05.swf</file>
+      <x>118.8660643</x>
+      <y>133.1839357</y>
+      <xscale>0.3574275</xscale>
+      <yscale>0.3574275</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">15335168</color>
+    </prop>
+    <prop id="PROP192" index="22">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>72.825</x>
+      <y>179.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP194" index="23">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>82.825</x>
+      <y>189.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP195" index="24">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>471.775</x>
+      <y>286.15</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP196" index="25">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>102.825</x>
+      <y>209.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP197" index="26">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>172.8</x>
+      <y>216.475</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP198" index="27">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>197.975</x>
+      <y>189.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP199" index="28">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>339.725</x>
+      <y>269.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP200" index="29">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>209.65</x>
+      <y>211.025</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP201" index="30">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>152.825</x>
+      <y>259.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP202" index="31">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>302.425</x>
+      <y>217.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP203" index="32">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>118.85</x>
+      <y>209.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP204" index="33">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>182.825</x>
+      <y>289.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP205" index="34">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>322.025</x>
+      <y>236.8</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP206" index="35">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>142.75</x>
+      <y>189.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP207" index="36">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>212.825</x>
+      <y>319.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP208" index="37">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>63.75</x>
+      <y>232.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP209" index="38">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>202.45</x>
+      <y>232.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP210" index="39">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>385.9</x>
+      <y>289.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP211" index="40">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>479.125</x>
+      <y>319.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP212" index="41">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>356.475</x>
+      <y>328.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP213" index="42">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>142.8</x>
+      <y>189.45</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP214" index="43">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>287.9</x>
+      <y>309.625</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>1.7065566</rotation>
+    </prop>
+    <effectAsset id="EFFECT16" themecode="common" index="46">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE10" adelay="60" lock="N" index="10" color="16777215" guid="FFFD2B88-235B-7B4E-2581-779DA9906040">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_graveyard_BG7" index="0">
+      <file>common.ncc_gradient.swf</file>
+      <color r="colorA">65535</color>
+      <color r="colorB">65535</color>
+    </bg>
+    <char id="AVATOR432" index="44" raceCode="1">
+      <action face="-1" motionface="1">ugc.C-29268-1601032159345.stand.xml</action>
+      <head id="PROP262" raceCode="1">
+        <file>ugc.C-29268-1601032159345.head.head_shocked.xml</file>
+      </head>
+      <x>265.7</x>
+      <y>232.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR433" index="45" raceCode="1">
+      <action face="-1" motionface="1">ugc.C-29513-1601032159345.stand.xml</action>
+      <head id="PROP264" raceCode="1">
+        <file>ugc.C-29513-1601032159345.head.head_shocked.xml</file>
+      </head>
+      <x>154.35</x>
+      <y>232.8</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR488" index="46" raceCode="1">
+      <action face="1" motionface="1">ugc.C-4450-1601032159345.excited.xml</action>
+      <head id="PROP266" raceCode="1">
+        <file>ugc.C-4450-1601032159345.head.head_angry.xml</file>
+      </head>
+      <x>414.4</x>
+      <y>235.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR491" index="47" raceCode="1">
+      <action face="1" motionface="1">ugc.C-43344-1601032159345.xarms.xml</action>
+      <head id="PROP268" raceCode="1">
+        <file>ugc.C-43344-1601032159345.head.head_angry.xml</file>
+      </head>
+      <x>505.9</x>
+      <y>232.8</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_ncc_graveyard_PROP14" index="1" attached="Y">
+      <file>common.ncc_cloud.swf</file>
+      <x>335.1</x>
+      <y>45.6</y>
+      <xscale>2.06</xscale>
+      <yscale>0.56</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP8" index="2" attached="Y">
+      <file>common.nccha_grave_backdrop.swf</file>
+      <x>567</x>
+      <y>148</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">65280</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP9" index="3" attached="Y">
+      <file>common.nccha_grave_castle.swf</file>
+      <x>213.1</x>
+      <y>133.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP10" index="4" attached="Y">
+      <file>common.ncc_tree05.swf</file>
+      <x>67</x>
+      <y>131</y>
+      <xscale>0.3574275</xscale>
+      <yscale>0.3574275</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">15335168</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP11" index="5" attached="Y">
+      <file>common.nccha_grave_prop02.swf</file>
+      <x>322</x>
+      <y>281</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">65280</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP15" index="6" attached="Y">
+      <file>common.ncc_cloud.swf</file>
+      <x>345.1</x>
+      <y>55.6</y>
+      <xscale>2.06</xscale>
+      <yscale>0.56</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP16" index="7" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>389</x>
+      <y>186.9</y>
+      <xscale>0.45</xscale>
+      <yscale>0.45</yscale>
+      <face>1</face>
+      <rotation>-17.8</rotation>
+      <color r="ccColorA">3355443</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP17" index="8" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>208</x>
+      <y>178.9</y>
+      <xscale>0.45</xscale>
+      <yscale>0.45</yscale>
+      <face>1</face>
+      <rotation>6.5</rotation>
+      <color r="ccColorA">3355443</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP18" index="9" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>68</x>
+      <y>170.9</y>
+      <xscale>0.45</xscale>
+      <yscale>0.45</yscale>
+      <face>1</face>
+      <rotation>-17.8</rotation>
+      <color r="ccColorA">3355443</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP19" index="10" attached="Y">
+      <file>common.nccha_grave_soil01.swf</file>
+      <x>90.1</x>
+      <y>190</y>
+      <xscale>0.5</xscale>
+      <yscale>0.5</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP20" index="11" attached="Y">
+      <file>common.nccha_grave_tombstone04.swf</file>
+      <x>297.2</x>
+      <y>202</y>
+      <xscale>0.82</xscale>
+      <yscale>0.82</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP21" index="12" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>155</x>
+      <y>173.9</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>-14.4</rotation>
+      <color r="ccColorA">13421772</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP22" index="13" attached="Y">
+      <file>common.nccha_grave_tombstone04.swf</file>
+      <x>382.2</x>
+      <y>224</y>
+      <xscale>1.2</xscale>
+      <yscale>1.2</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP24" index="14" attached="Y">
+      <file>common.nccha_grave_house.swf</file>
+      <x>569.6</x>
+      <y>211</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP25" index="15" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>439</x>
+      <y>238.9</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>16.3</rotation>
+      <color r="ccColorA">13421772</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP27" index="16" attached="Y">
+      <file>common.nccha_grave_tombstone03.swf</file>
+      <x>243.1</x>
+      <y>241</y>
+      <xscale>0.89</xscale>
+      <yscale>0.89</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP28" index="17" attached="Y">
+      <file>common.msp_nccha_tombstone01.msp_nccha_tombstone01_nccha_grave_tombstone01.swf</file>
+      <x>102.1</x>
+      <y>295</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>-9.6</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP29" index="18" attached="Y">
+      <file>common.ncc_grass01.swf</file>
+      <x>227.1</x>
+      <y>298</y>
+      <xscale>0.6</xscale>
+      <yscale>0.6</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP30" index="19" attached="Y">
+      <file>common.ncc_grass01.swf</file>
+      <x>572.1</x>
+      <y>272</y>
+      <xscale>0.7</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>30</rotation>
+    </prop>
+    <prop id="PROP190" index="20" attached="Y">
+      <file>common.ncc_tree05.swf</file>
+      <x>90.0910643</x>
+      <y>133.2089357</y>
+      <xscale>0.3574275</xscale>
+      <yscale>0.3574275</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">15335168</color>
+    </prop>
+    <prop id="PROP191" index="21" attached="Y">
+      <file>common.ncc_tree05.swf</file>
+      <x>118.8660643</x>
+      <y>133.1839357</y>
+      <xscale>0.3574275</xscale>
+      <yscale>0.3574275</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">15335168</color>
+    </prop>
+    <prop id="PROP192" index="22">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>72.825</x>
+      <y>179.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP194" index="23">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>82.825</x>
+      <y>189.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP195" index="24">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>471.775</x>
+      <y>286.15</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP196" index="25">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>102.825</x>
+      <y>209.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP197" index="26">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>172.8</x>
+      <y>216.475</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP198" index="27">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>197.975</x>
+      <y>189.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP199" index="28">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>339.725</x>
+      <y>269.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP200" index="29">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>209.65</x>
+      <y>211.025</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP201" index="30">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>152.825</x>
+      <y>259.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP202" index="31">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>349.55</x>
+      <y>223.825</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP203" index="32">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>118.85</x>
+      <y>209.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP204" index="33">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>182.825</x>
+      <y>289.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP205" index="34">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>322.025</x>
+      <y>236.8</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP206" index="35">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>142.75</x>
+      <y>189.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP207" index="36">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>212.825</x>
+      <y>319.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP208" index="37">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>63.75</x>
+      <y>232.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP209" index="38">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>202.45</x>
+      <y>232.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP210" index="39">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>385.9</x>
+      <y>289.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP211" index="40">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>479.125</x>
+      <y>319.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP212" index="41">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>356.475</x>
+      <y>328.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP213" index="42">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>142.8</x>
+      <y>189.45</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP214" index="43">
+      <file>common.msp_leave01.msp_leave01_ncc_leave01_side.swf</file>
+      <x>287.9</x>
+      <y>309.625</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>1.7065566</rotation>
+    </prop>
+    <effectAsset id="EFFECT16" themecode="common" index="48">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE11" adelay="60" lock="Y" index="11" color="16777215" guid="E8F1F64B-CC2B-B723-C4D3-891BD11287C8" combgId="custom.cbg_convinient_store_cashier">
+    <bg id="cbg_convinient_store_cashier_BG58" index="0">
+      <file>custom.convinient_store_cashier_bg.swf</file>
+    </bg>
+    <char id="AVATOR551" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.400001038.stand.xml</action>
+      <head id="PROP318" raceCode="1">
+        <file>ugc.400001038.head.head_shocked.xml</file>
+      </head>
+      <x>333.2</x>
+      <y>206.35</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR554" index="3" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.C-56377-1601032159345.run.xml</action>
+      <head id="PROP321" raceCode="1">
+        <file>ugc.C-56377-1601032159345.head.head_schemeing.xml</file>
+      </head>
+      <x>369.9552632,675.2052632</x>
+      <y>232.6,238.9</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_convinient_store_cashier_PROP38" index="2" attached="Y">
+      <file>custom.convinient_store_cashier_counter.swf</file>
+      <x>345</x>
+      <y>241</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP319" index="4">
+      <file>common.ball01.swf</file>
+      <x>378,683.25</x>
+      <y>240.975,247.275</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT19" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="6" target="PROP319" type="MotionPath" atype="Prop" direction="2" section="6" timing="0" duration="24" delay="0">null</aTran>
+      <aTran id="7" target="AVATOR554" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE12" adelay="60" lock="N" index="12" color="16777215" guid="8FA5ADEB-0B83-D803-443A-E76E71DFF0EA" combgId="custom.cbg_subwaystaton">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_subwaystaton_BG246" index="0">
+      <file>custom.subway_station_bg.swf</file>
+    </bg>
+    <char id="AVATOR588" index="9" raceCode="1">
+      <action face="-1" motionface="1">ugc.400001036.xarms.xml</action>
+      <head id="PROP334" raceCode="1">
+        <file>ugc.400001036.head.head_angry.xml</file>
+      </head>
+      <x>205.8052632</x>
+      <y>217.35</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR554" index="10" raceCode="1">
+      <action face="1,1" motionface="1">ugc.C-56377-1601032159345.run.xml</action>
+      <head id="PROP336" raceCode="1">
+        <file>ugc.C-56377-1601032159345.head.head_shocked.xml</file>
+      </head>
+      <x>677.3815789,380.5815789</x>
+      <y>225.85,227.825</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="PROP48" index="8" attached="Y">
+      <file>custom.subway_station_trash.swf</file>
+      <x>584</x>
+      <y>261</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="7" attached="Y">
+      <file>custom.subway_station_chair.swf</file>
+      <x>282</x>
+      <y>259</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="6" attached="Y">
+      <file>custom.subway_station_trash.swf</file>
+      <x>274</x>
+      <y>254</y>
+      <xscale>1.29</xscale>
+      <yscale>1.29</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP45" index="5" attached="Y">
+      <file>custom.subway_station_prop01.swf</file>
+      <x>319</x>
+      <y>212</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP44" index="4" attached="Y">
+      <file>custom.subway_station_trash.swf</file>
+      <x>578</x>
+      <y>297</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP43" index="3" attached="Y">
+      <file>custom.subway_station_stair.swf</file>
+      <x>507</x>
+      <y>195</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP42" index="2" attached="Y">
+      <file>custom.subway_station_trash.swf</file>
+      <x>257</x>
+      <y>295</y>
+      <xscale>1.23</xscale>
+      <yscale>1.23</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="1" attached="Y">
+      <file>custom.subway_station_train.swf</file>
+      <x>74</x>
+      <y>201</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP319" index="11">
+      <file>common.ball01.swf</file>
+      <x>677.35,380.55</x>
+      <y>241.55,243.525</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT21" themecode="common" index="12">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="9" target="PROP319" type="MotionPath" atype="Prop" direction="2" section="6" timing="0" duration="24" delay="0">null</aTran>
+      <aTran id="10" target="AVATOR554" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE13" adelay="60" lock="N" index="13" color="16777215" guid="6479E9D9-9D0A-E91B-20F2-EDCA9D9D40B6" combgId="custom.cbg_disco_entrance">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_disco_entrance_BG2" index="0">
+      <file>custom.disco_bg.swf</file>
+    </bg>
+    <char id="AVATOR628" index="2" raceCode="1">
+      <action face="1,1" motionface="1">ugc.C-62324-1601032159345.run.xml</action>
+      <x>645.7815789,-22.6184211</x>
+      <y>241.05,221.575</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_disco_entrance_PROP2" index="3" attached="Y">
+      <file>custom.disco_stand.swf</file>
+      <x>363.4</x>
+      <y>283.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_disco_entrance_PROP0" index="1" attached="Y">
+      <file>custom.msp_disco_door.msp_disco_door_disco_door_open.swf</file>
+      <x>154</x>
+      <y>201</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT23" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="11" target="AVATOR628" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE14" adelay="78" lock="N" index="14" color="16777215" guid="AF845120-A3BF-2D9E-29F8-9D31F2704F40" combgId="common.cbg_ncc_house">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_house_BG7" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorB">10066329</color>
+      <color r="colorA">10079283</color>
+    </bg>
+    <char id="AVATOR656" index="17" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.C-43344-1601032159345.xarms.xml</action>
+      <x>327.1</x>
+      <y>186.45</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR657" index="18" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.C-4450-1601032159345.xarms.xml</action>
+      <x>252.875</x>
+      <y>190.05</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR658" index="19" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.C-12114-1601032159345.xarms.xml</action>
+      <x>397.925</x>
+      <y>187.45</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE655" index="16">
+      <x>327.9052632</x>
+      <y>340.8065789</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-188.5472018" y="-22.5" w="377.0944036" h="45" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Telex Regular" size="22" align="center" bold="false" italic="false" embed="true"><![CDATA[Coming soon: On October 9th, 2020]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP52" index="15" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>552.2</x>
+      <y>127.5</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP51" index="14" attached="Y">
+      <file>common.msp_ncc_hsign.msp_ncc_hsign_ncc_hsign01.swf</file>
+      <x>292.9</x>
+      <y>218.4</y>
+      <xscale>1.17</xscale>
+      <yscale>1.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="13" attached="Y">
+      <file>common.msp_ncc_hsign.msp_ncc_hsign_ncc_hsign03.swf</file>
+      <x>117.7</x>
+      <y>238.8</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="12" attached="Y">
+      <file>common.msp_pavement01.msp_pavement01_ncc_footpath01.swf</file>
+      <x>56.4</x>
+      <y>283.5</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="11" attached="Y">
+      <file>common.msp_pavement01.msp_pavement01_ncc_footpath01.swf</file>
+      <x>153.5</x>
+      <y>283.5</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="10" attached="Y">
+      <file>common.msp_pavement01.msp_pavement01_ncc_footpath02.swf</file>
+      <x>249.5</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="9" attached="Y">
+      <file>common.msp_pavement01.msp_pavement01_ncc_footpath01.swf</file>
+      <x>186.7</x>
+      <y>249.5</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP45" index="8" attached="Y">
+      <file>common.msp_pavement01.msp_pavement01_ncc_footpath01.swf</file>
+      <x>346.8</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP44" index="7" attached="Y">
+      <file>common.msp_pavement01.msp_pavement01_ncc_footpath01.swf</file>
+      <x>444.5</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP43" index="6" attached="Y">
+      <file>common.msp_pavement01.msp_pavement01_ncc_footpath01.swf</file>
+      <x>542.8</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP42" index="5" attached="Y">
+      <file>common.msp_pavement01.msp_pavement01_ncc_footpath01.swf</file>
+      <x>638.5</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP41" index="4" attached="Y">
+      <file>common.ncc_hhouse01.swf</file>
+      <x>150.7</x>
+      <y>119.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP40" index="3" attached="Y">
+      <file>common.bushes.swf</file>
+      <x>432</x>
+      <y>207.5</y>
+      <xscale>1.2</xscale>
+      <yscale>1.2</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP39" index="2" attached="Y">
+      <file>common.ncc_hhouse02.swf</file>
+      <x>571.3</x>
+      <y>123.5</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP38" index="1" attached="Y">
+      <file>common.bushes.swf</file>
+      <x>384.2</x>
+      <y>177.5</y>
+      <xscale>2.06</xscale>
+      <yscale>2.06</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT25" themecode="common" index="20">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND0" index="0" track="0" vol="1" tts="0">
+    <sfile>common.remember_last_time_full.mp3</sfile>
+    <start>139</start>
+    <stop>3756</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+<cc_char file_name='ugc.char.C-4086-1601032159345.xml' scale='1' yscale='1' hxscale='1' hyscale='1' headdx='0' headdy='0'><color r="ccSkinColor" oc="0xFFE1C4">0xFFCE95</color><color r="ccEyeLib">0xFFCE95</color><color r="ccEyeIris">0x000000</color><color r="ccGlassesFrame">0xBE10B0</color><color r="ccGlassesLens">0x737373</color><color r="ccMouthLip">0x891258</color><color r="ccMustache">0x000000</color><color r="ccBeard">0xFFFFFF</color><color r="ccEyebrow">0x996633</color><color r="ccUpperMain" oc="0x336699">0x0B3573</color><color r="ccUpperMinor" oc="0xE5E5E5">0xFFFFFF</color><color r="ccLowerMain" oc="0xCCBC9A">0x0B3573</color><color r="ccLowerMinor" oc="0xEEEEEE">0xFF0000</color><color r="ccHairMajor">0x802F00</color><component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="faceshape" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="ear" component_id="010" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="mouth" component_id="201" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="upper_body" component_id="adam_002" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="lower_body" component_id="adam_007" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eye" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eyebrow" component_id="105" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="nose" component_id="002" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component id="ID3857" type="facedecoration" component_id="016" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="hair" component_id="007" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/></cc_char><cc_char file_name='ugc.char.C-4450-1601032159345.xml' scale='1' yscale='1' hxscale='1' hyscale='1' headdx='0' headdy='0'><color r="ccSkinColor" oc="0xFFE1C4">0xFFFFFF</color><color r="ccEyeLib">0xFFFFFF</color><color r="ccEyeIris">0x000000</color><color r="ccGlassesFrame">0xFF0000</color><color r="ccGlassesLens">0xFF0000</color><color r="ccMouthLip">0xFF6666</color><color r="ccMustache">0x8B6F18</color><color r="ccBeard">0xC29B22</color><color r="ccEyebrow">0x000000</color><color r="ccUpperMain" oc="0x336699">0x0088FF</color><color r="ccUpperMinor" oc="0xE5E5E5">0x0088FF</color><color r="ccLowerMain" oc="0xCCBC9A">0x0088FF</color><color r="ccLowerMinor" oc="0xEEEEEE">0x0088FF</color><color r="ccHairMajor">0x0088FF</color><component type="bodyshape" component_id="eve" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="skeleton" component_id="eve_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="faceshape" component_id="034" theme_id="family" x="0" y="1" xscale="0.99" yscale="0.95" offset="0" rotation="0"/><component type="eye" component_id="102" theme_id="family" x="0" y="5" xscale="0.84" yscale="0.9" offset="0" rotation="0"/><component type="upper_body" component_id="eve_a003" theme_id="family" x="0" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/><component type="lower_body" component_id="eve_010" theme_id="family" x="0" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/><component type="hair" component_id="087" theme_id="family" x="-1" y="3" xscale="0.95" yscale="0.95" offset="0" rotation="0"/><component type="mouth" component_id="001" theme_id="family" x="0" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/><component type="eyebrow" component_id="105" theme_id="family" x="0" y="6" xscale="0.9" yscale="0.9" offset="0" rotation="0"/><component type="nose" component_id="000" theme_id="family" x="-2" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/></cc_char><cc_char file_name='ugc.char.C-12114-1601032159345.xml' scale='1' yscale='1' hxscale='1' hyscale='1' headdx='0' headdy='0'><color r="ccSkinColor" oc="0xFFE1C4">0xFFFFFF</color><color r="ccEyeLib">0xFFCE95</color><color r="ccEyeIris">0x000000</color><color r="ccGlassesFrame">0xBE10B0</color><color r="ccGlassesLens">0x737373</color><color r="ccMouthLip">0x891258</color><color r="ccMustache">0x000000</color><color r="ccBeard">0xFFFFFF</color><color r="ccEyebrow">0x000000</color><color r="ccHairMajor">0x996633</color><color r="ccHairMinor">0x640F0F</color><color r="ccUpperMain" oc="0x336699">0x000000</color><color r="ccUpperMinor" oc="0xE5E5E5">0x000000</color><color r="ccLowerMain" oc="0xCCBC9A">0x000000</color><color r="ccLowerMinor" oc="0xEEEEEE">0x7B6B15</color><component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="upper_body" component_id="adam_005" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="lower_body" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="mouth" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="faceshape" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eye" component_id="006" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eyebrow" component_id="105" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="nose" component_id="000" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/></cc_char><cc_char file_name='ugc.char.C-12461-1601032159345.xml' scale='1' yscale='1' hxscale='1' hyscale='1' headdx='0' headdy='0'><color r="ccSkinColor" oc="0xFFE1C4">0xFDA429</color><color r="ccEyeLib">0xFDA429</color><color r="ccEyeIris">0x000000</color><color r="ccGlassesFrame">0x000000</color><color r="ccGlassesLens">0x737373</color><color r="ccMouthLip">0x891258</color><color r="ccMustache">0x000000</color><color r="ccBeard">0xFFFFFF</color><color r="ccEyebrow">0x3A0500</color><color r="ccUpperMain" oc="0x336699">0x333333</color><color r="ccUpperMinor" oc="0xE5E5E5">0xCD1EF3</color><color r="ccLowerMain" oc="0xCCBC9A">0x0B3573</color><color r="ccLowerMinor" oc="0xEEEEEE">0x000000</color><color r="ccHairMajor">0x740B00</color><component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="lower_body" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="mouth" component_id="201" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="faceshape" component_id="010" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="hair" component_id="026" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="upper_body" component_id="adam_a008" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="ear" component_id="003" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eye" component_id="004" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eyebrow" component_id="005" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="nose" component_id="020" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="glasses" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/></cc_char><cc_char file_name='ugc.char.C-14523-1601032159345.xml' scale='1' yscale='1' hxscale='1' hyscale='1' headdx='0' headdy='0'><color r="ccSkinColor" oc="0xFFE1C4">0xFFCE95</color><color r="ccEyeLib">0xFFCE95</color><color r="ccEyeIris">0x000000</color><color r="ccGlassesFrame">0xBE10B0</color><color r="ccGlassesLens">0x737373</color><color r="ccMouthLip">0x891258</color><color r="ccMustache">0x000000</color><color r="ccBeard">0xFFFFFF</color><color r="ccEyebrow">0x996633</color><color r="ccHairMajor">0x000000</color><color r="ccHairMinor">0x640F0F</color><color r="ccUpperMain" oc="0x336699">0xFFFFFF</color><color r="ccUpperMinor" oc="0xE5E5E5">0x000000</color><color r="ccLowerMain" oc="0xCCBC9A">0x000000</color><color r="ccLowerMinor" oc="0xEEEEEE">0x000000</color><component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="lower_body" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="faceshape" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="hair" component_id="008" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eyebrow" component_id="003" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="nose" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="upper_body" component_id="adam_003" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="mouth" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="ear" component_id="006" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eye" component_id="004" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/></cc_char><cc_char file_name='ugc.char.C-14773-1601032159345.xml' scale='1' yscale='1' hxscale='1' hyscale='1' headdx='0' headdy='0'><color r="ccSkinColor" oc="0xFFE1C4">0xFFCE95</color><color r="ccEyeLib">0xFFCE95</color><color r="ccEyeIris">0x000000</color><color r="ccGlassesFrame">0xBE10B0</color><color r="ccGlassesLens">0x737373</color><color r="ccMouthLip">0x891258</color><color r="ccMustache">0x000000</color><color r="ccBeard">0xFFFFFF</color><color r="ccEyebrow">0x000000</color><color r="ccHairMajor">0x996633</color><color r="ccHairMinor">0x640F0F</color><color r="ccUpperMain" oc="0x336699">0x0000FF</color><color r="ccUpperMinor" oc="0xE5E5E5">0xFFFF00</color><color r="ccLowerMain" oc="0xCCBC9A">0x0000FF</color><color r="ccLowerMinor" oc="0xEEEEEE">0x0000FF</color><color r="ccDecMinor" targetComponent="ID3899">0x0000FF</color><color r="ccDecMajor" targetComponent="ID3899">0x0000FF</color><component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="upper_body" component_id="adam_005" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="lower_body" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="faceshape" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="mouth" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eye" component_id="006" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="ear" component_id="006" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eyebrow" component_id="105" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="nose" component_id="002" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component id="ID3899" type="facedecoration" component_id="019" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/></cc_char><cc_char file_name='ugc.char.C-15121-1601032159345.xml' scale='1' yscale='1' hxscale='1' hyscale='1' headdx='0' headdy='0'><color r="ccSkinColor" oc="0xFFE1C4">0xFFCE95</color><color r="ccEyeLib">0xFFCE95</color><color r="ccEyeIris">0x000000</color><color r="ccGlassesFrame">0xBE10B0</color><color r="ccGlassesLens">0x737373</color><color r="ccMouthLip">0x891258</color><color r="ccMustache">0x000000</color><color r="ccBeard">0xFFFFFF</color><color r="ccEyebrow">0x953600</color><color r="ccHairMajor">0x953600</color><color r="ccHairMinor">0x640F0F</color><color r="ccUpperMain" oc="0x336699">0x00BB00</color><color r="ccUpperMinor" oc="0xE5E5E5">0xF3F01E</color><color r="ccLowerMain" oc="0xCCBC9A">0x006EFF</color><color r="ccLowerMinor" oc="0xEEEEEE">0xFF0059</color><color r="ccDecMajor" targetComponent="ID513">0x00BB00</color><color r="ccDecMajor" targetComponent="ID5543">0x00BB00</color><component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="faceshape" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="hair" component_id="008" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eyebrow" component_id="003" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="nose" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="upper_body" component_id="adam_005" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="lower_body" component_id="adam_004" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="mouth" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="ear" component_id="006" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eye" component_id="004" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component id="ID513" type="facedecoration" component_id="071" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component id="ID5543" type="facedecoration" component_id="076" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component id="ID7034" type="facedecoration" component_id="069" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/></cc_char><cc_char file_name='ugc.char.C-17078-1601032159345.xml' scale='1' yscale='1' hxscale='1' hyscale='1' headdx='0' headdy='0'><color r="ccSkinColor" oc="0xFFE1C4">0xFFCE95</color><color r="ccEyeLib">0x996666</color><color r="ccEyeIris">0x000000</color><color r="ccGlassesFrame">0xFF0000</color><color r="ccGlassesLens">0xFF0000</color><color r="ccMouthLip">0xFF6666</color><color r="ccMustache">0x8B6F18</color><color r="ccBeard">0xC29B22</color><color r="ccEyebrow">0x000000</color><color r="ccUpperMain" oc="0x336699">0xFC0303</color><color r="ccUpperMinor" oc="0xE5E5E5">0xCD1EF3</color><color r="ccLowerMain" oc="0xCCBC9A">0x0B3573</color><color r="ccLowerMinor" oc="0xEEEEEE">0x2D5F0C</color><color r="ccHairMajor">0xEE00FF</color><component type="bodyshape" component_id="eve" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="skeleton" component_id="eve_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="mouth" component_id="101" theme_id="family" x="0" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/><component type="lower_body" component_id="eve_002" theme_id="family" x="0" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/><component type="faceshape" component_id="034" theme_id="family" x="0" y="1" xscale="0.99" yscale="0.95" offset="0" rotation="0"/><component type="eye" component_id="102" theme_id="family" x="1" y="5" xscale="0.9" yscale="0.9" offset="-1" rotation="0"/><component type="ear" component_id="007" theme_id="family" x="-2" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/><component type="eyebrow" component_id="108" theme_id="family" x="0" y="6" xscale="0.9" yscale="0.9" offset="0" rotation="0"/><component type="nose" component_id="014" theme_id="family" x="-2" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/><component type="upper_body" component_id="eve_006" theme_id="family" x="0" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/><component type="hair" component_id="056" theme_id="family" x="-1" y="3" xscale="0.95" yscale="0.95" offset="0" rotation="0"/></cc_char><cc_char file_name='ugc.char.C-24863-1601032159345.xml' scale='1' yscale='1' hxscale='1' hyscale='1' headdx='0' headdy='0'><color r="ccSkinColor" oc="0xFFE1C4">0xAC6418</color><color r="ccEyeLib">0xAC6418</color><color r="ccEyeIris">0x000000</color><color r="ccGlassesFrame">0xBE10B0</color><color r="ccGlassesLens">0x737373</color><color r="ccMouthLip">0x891258</color><color r="ccMustache">0x000000</color><color r="ccBeard">0xFFFFFF</color><color r="ccEyebrow">0x903609</color><color r="ccUpperMain" oc="0x336699">0xFF00FF</color><color r="ccUpperMinor" oc="0xE5E5E5">0xFF00FF</color><color r="ccLowerMain" oc="0xCCBC9A">0xFF8800</color><color r="ccLowerMinor" oc="0xEEEEEE">0xFFFFFF</color><color r="ccHairMajor">0x903609</color><component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="faceshape" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eyebrow" component_id="003" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="nose" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eye" component_id="004" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="ear" component_id="006" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="mouth" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="upper_body" component_id="adam_002" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="lower_body" component_id="adam_007" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="hair" component_id="048" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/></cc_char><cc_char file_name='ugc.char.C-29268-1601032159345.xml' scale='1' yscale='1' hxscale='1' hyscale='1' headdx='0' headdy='0'><color r="ccSkinColor" oc="0xFFE1C4">0xA85D18</color><color r="ccEyeLib">0xA85D18</color><color r="ccEyeIris">0x000000</color><color r="ccGlassesFrame">0xBE10B0</color><color r="ccGlassesLens">0x737373</color><color r="ccMouthLip">0x891258</color><color r="ccMustache">0x000000</color><color r="ccBeard">0xFFFFFF</color><color r="ccEyebrow">0x000000</color><color r="ccHairMajor">0x996633</color><color r="ccHairMinor">0x640F0F</color><color r="ccUpperMain" oc="0x336699">0xF3F02C</color><color r="ccUpperMinor" oc="0xE5E5E5">0xCD1EF3</color><color r="ccLowerMain" oc="0xCCBC9A">0x0000BB</color><color r="ccLowerMinor" oc="0xEEEEEE">0xFFFFFF</color><component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="lower_body" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="faceshape" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eye" component_id="004" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="ear" component_id="006" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="mouth" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="upper_body" component_id="adam_a008" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eyebrow" component_id="105" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="nose" component_id="012" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/></cc_char><cc_char file_name='ugc.char.C-29513-1601032159345.xml' scale='1' yscale='1' hxscale='1' hyscale='1' headdx='0' headdy='0'><color r="ccSkinColor" oc="0xFFE1C4">0xFFCE95</color><color r="ccEyeLib">0xFFCE95</color><color r="ccEyeIris">0x000000</color><color r="ccGlassesFrame">0xBE10B0</color><color r="ccGlassesLens">0x737373</color><color r="ccMouthLip">0x891258</color><color r="ccMustache">0x000000</color><color r="ccBeard">0xFFFFFF</color><color r="ccEyebrow">0x000000</color><color r="ccUpperMain" oc="0x336699">0x00BB00</color><color r="ccUpperMinor" oc="0xE5E5E5">0xFF0000</color><color r="ccLowerMain" oc="0xCCBC9A">0x0000AA</color><color r="ccLowerMinor" oc="0xEEEEEE">0xFF0000</color><color r="ccHairMajor">0xB83D00</color><component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="lower_body" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="faceshape" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eye" component_id="004" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="ear" component_id="006" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="mouth" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="upper_body" component_id="adam_005" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="hair" component_id="014" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eyebrow" component_id="107" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="nose" component_id="014" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/></cc_char><cc_char file_name='ugc.char.C-43344-1601032159345.xml' scale='1' yscale='1' hxscale='1' hyscale='1' headdx='0' headdy='0'><color r="ccSkinColor" oc="0xFFE1C4">0xFFCE95</color><color r="ccEyeLib">0xFFCE95</color><color r="ccEyeIris">0x000000</color><color r="ccGlassesFrame">0x000000</color><color r="ccGlassesLens">0x737373</color><color r="ccMouthLip">0x891258</color><color r="ccMustache">0x000000</color><color r="ccBeard">0xFFFFFF</color><color r="ccEyebrow">0x000000</color><color r="ccUpperMain" oc="0x336699">0x000000</color><color r="ccUpperMinor" oc="0xE5E5E5">0xF39B1E</color><color r="ccLowerMain" oc="0xCCBC9A">0x43C2E7</color><color r="ccLowerMinor" oc="0xEEEEEE">0xF1E41C</color><color r="ccHairMajor">0xDEAB10</color><component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="faceshape" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="ear" component_id="006" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="mouth" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="upper_body" component_id="adam_a008" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="lower_body" component_id="adam_003" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="hair" component_id="109" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eyebrow" component_id="107" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="nose" component_id="014" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eye" component_id="202" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="glasses" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component id="ID8639" type="facedecoration" component_id="075" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/></cc_char><cc_char file_name='ugc.char.C-56377-1601032159345.xml' scale='1' yscale='1' hxscale='1' hyscale='1' headdx='0' headdy='0'><color r="ccSkinColor" oc="0xFFE1C4">0xFFCE95</color><color r="ccEyeLib">0xFFCE95</color><color r="ccEyeIris">0x000000</color><color r="ccGlassesFrame">0xBE10B0</color><color r="ccGlassesLens">0x737373</color><color r="ccMouthLip">0x891258</color><color r="ccMustache">0x000000</color><color r="ccBeard">0xFFFFFF</color><color r="ccEyebrow">0x000000</color><color r="ccHairMajor">0x996633</color><color r="ccHairMinor">0x640F0F</color><color r="ccUpperMain" oc="0x336699">0xAAAAAA</color><color r="ccUpperMinor" oc="0xE5E5E5">0xFF0000</color><color r="ccLowerMain" oc="0xCCBC9A">0x0000BB</color><color r="ccLowerMinor" oc="0xEEEEEE">0xFF0000</color><component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="faceshape" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eye" component_id="004" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="ear" component_id="006" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="mouth" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="upper_body" component_id="adam_002" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="lower_body" component_id="adam_007" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eyebrow" component_id="105" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="nose" component_id="002" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/></cc_char><cc_char file_name='ugc.char.C-62324-1601032159345.xml' scale='1' yscale='1' hxscale='1' hyscale='1' headdx='0' headdy='0'><color r="ccSkinColor" oc="0xFFE1C4">0xFFCE95</color><color r="ccEyeLib">0xFFCE95</color><color r="ccEyeIris">0x000000</color><color r="ccGlassesFrame">0xBE10B0</color><color r="ccGlassesLens">0x737373</color><color r="ccMouthLip">0x891258</color><color r="ccMustache">0x000000</color><color r="ccBeard">0xFFFFFF</color><color r="ccEyebrow">0x996633</color><color r="ccHairMajor">0x996633</color><color r="ccHairMinor">0x640F0F</color><color r="ccUpperMain" oc="0x336699">0x993333</color><color r="ccUpperMinor" oc="0xE5E5E5">0xFFFFFF</color><color r="ccLowerMain" oc="0xCCBC9A">0xCC9966</color><color r="ccLowerMinor" oc="0xEEEEEE">0xFFFFFF</color><component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="upper_body" component_id="adam_005" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="lower_body" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="faceshape" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="hair" component_id="008" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="mouth" component_id="201" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="ear" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eye" component_id="205" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eyebrow" component_id="002" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="nose" component_id="004" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/></cc_char><thumb>/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx4BBQUFBwYHDggIDh4UERQeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHv/AABEIAWgCgAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APsugAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoA8R+JX7SngzwB8Tz4F17TNWEsbQCa+jWMwRLKqtvPzbsKGycDPBxmgD2yGSOaJJYpFkjdQyOpyGB5BB7igDzP49/GbQvg9aaTc65pepaguqSSpELMJlDGFJ3bmH94dKAPTqACgAoAKACgAoAKACgAoA8x8LfGbQvEHxo1j4W22l6lFqelRyPLcyBPIcIUB24bd/GOo7GgD0DxBrGmaBo11rOs3kVlp9onmTzyHCxr6mgA8P6xpmv6Na6zo15Fe6fdp5kE8Zysi+ooA8p0n4l+I7r9rDV/hhKlj/YVno63sTCI+f5hSI8tuxjLtxj0oA9koAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoA+Efjt4Li+If7cF54Oln+znUdOIil7JKmmvJEx9QHRcjuM0AetfsR/Ei9v9GvvhP4s32/iTwsWhhjm4d7ZG2FD/ALUTYX/dKehNAHKf8FLv+QJ4I/6+bz/0GKgD6+dlRC7sFVRkknAAoA+bvFX7YPgPT9cl0zw5oet+JlhyHurVFjibBxlN3zMPcgD0zQBs/Cr9qXwF438SweGbuy1Tw7q1zKIraO+RTHNIThUDqeGPowA7ZJoA7n46fFLTPhL4YtPEOsaTqOo2lxeC0/0P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DUPiND8Q7zQPN8TwMjx3v2ycbSi7F/dh9nC8fdoA7agAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAMXxb4T8NeLrKKy8T6Fp+sW0MnmxxXkIkVHwRuAPQ4JH40Aa1tBDbW0VtbxrFDEgSNFGAqgYAA9AKAJKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgD//2Q==</thumb></film>
